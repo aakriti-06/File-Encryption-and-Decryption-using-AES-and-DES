@@ -45,8 +45,8 @@ AES algorithm is one of the most common and widely used symmetric block cipher a
  such as AES uses 10 rounds for 128-bit keys, 
  12 rounds for 192-bit keys and 14 rounds 
  for 256-bit keys
- 
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+---------------------------------------------------------------------------------------------------------
  DES : 
  DES(Data Encryption Standard)
 DES has been the most extensively used encryption algorithm standard. It is also a symmetric block cipher which means it also requires same key to encrypt and decrypt the data. DES has always been very vulnerable to attacks. DES method is used to store sensitive information or transmit information across insecure networks so that it cannot be read by anyone except the intended recipient.
